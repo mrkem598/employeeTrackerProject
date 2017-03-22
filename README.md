@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Moh GitHub Page employeeTrackerProject!
 
-You can use the [editor on GitHub](https://github.com/mrkem598/employeeTrackerProject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Employee Tracker 
+Running a business often means that you'll have to manage employees. You can use an Employee Tracker to organize information about the people working for you in one company.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Use the Employee Tracker document if:
+You run a business and want to keep track of each employee's details like monthly bill.
+You're an HR manager with a need to organize information about your employees.
+You're about to open a business that will employ workers.
+An Employee Tracker isn't meant for multiple employees; this app is  for an employee monthly bill. You don't have to depend on emails or jotted down notes to remember important bill and details. With an Employee Tracker, you can keep all of their monthly bills together , organized, easily accessible, with live update where ever you are . Each and every record of bill will be captured and lived moment entered to the app. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrkem598/employeeTrackerProject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
