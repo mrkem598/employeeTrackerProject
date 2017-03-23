@@ -71,4 +71,12 @@ function writeEmployee(userObj){
 }, function (errorObject) {
   console.log("The read failed: " + errorObject.code);
 });
+ $(".bxslider").mohSlider({
+  mode: "horizontal",
+  useCSS: false,
+  infiniteLoop: false,
+  hideControlonEnd: true,
+  easing: "easeOutElastic",
+  speed: 2000
+ });
 
